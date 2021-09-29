@@ -2,7 +2,7 @@
 
 #### short description of the app
 
-#### Created By: Name
+#### Created By: Chynna Lew
 
 ## Technologies Used
 
@@ -32,6 +32,11 @@ Detailed description
     -- Run the command "$ dotnet restore" to restore the project dependencies
     -- Run the command "$ dotnet build" to build and compile the project
     -- Run the command "$ dotnet run" to build and compile the project
+  * To run the tests:
+ -Navigate to the FileName/FileName.tests folder in the command line or terminal 
+    -- Run the command "$ dotnet restore" to restore the test project dependencies
+    -- Run the command "$ dotnet build" to build and compile the test project
+  - In the terminal (navigated to the FileName/FileName.tests folder) run the command "$ dotnet test"
 
 ## Known Bugs
 
@@ -40,9 +45,9 @@ Detailed description
 ### License
 
 [MIT License](https://opensource.org/licenses/MIT)
-Copyright 2021 Name
+Copyright 2021 Chynna Lew
 
 ## Support and contact details
 
-* [Name](github.com/yourGitHub) 
-* <email@email.com>
+* [Chynna Lew](github.com/chynnalew) 
+* <ChynnaLew@yahoo.com>
